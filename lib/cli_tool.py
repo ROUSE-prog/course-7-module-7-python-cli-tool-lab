@@ -1,7 +1,7 @@
 # cli_tool.py
 
 import argparse
-from models import Task, User
+from lib.models import Task, User
 
 users = {}
 
